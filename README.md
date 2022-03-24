@@ -11,4 +11,4 @@ For example, if a user scrolled down to a position where items 4 and 5 are visib
 **The ViewHolder**: The ViewHolder is a java class that stores the reference to the card layout views that have to be dynamically modified during the execution of the program by a list of data obtained either by online databases or added in some other way.
 **The Data Class**: The Data class is a custom java class that acts as a structure for holding the information for every item of the RecyclerView.
 
-For Complete Reference:[Recycler View](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
+For Complete Reference:[**Recycler View**](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
