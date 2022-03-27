@@ -12,3 +12,7 @@ For example, if a user scrolled down to a position where items 4 and 5 are visib
 **The Data Class**: The Data class is a custom java class that acts as a structure for holding the information for every item of the RecyclerView.
 
 For Complete Reference:[**Recycler View**](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
+
+In Android, RecyclerView provides an ability to implement the horizontal, vertical and Expandable List. It is mainly used when we have data collections whose elements can change at run time based on user action or any network events. For using this widget we have to specify the Adapter and Layout Manager.
+
+
